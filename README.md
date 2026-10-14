@@ -89,6 +89,6 @@ The presence of an autograder does not imply that all tests have been independen
 
 ## Attribution
 
-The Pacman environment, starter code, layouts, and grading infrastructure are derived from the **UC Berkeley CS188 Pacman Projects**. The student work is concentrated in the search implementations and designated search-agent/problem/heuristic sections of `search.py` and `searchAgents.py`. The surrounding framework should not be interpreted as original student-authored code.
+The Pacman environment, starter code, layouts, and grading infrastructure are derived from the **UC Berkeley CS188 Pacman Projects**. The files changed for this assignment are `search.py` and `searchAgents.py`.
 
 - [UC Berkeley CS188 — Project 1: Search (Fall 2024)](https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj1/)
